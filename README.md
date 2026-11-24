@@ -93,3 +93,8 @@ cmake --build build --config Release
 
 ---
 <sub>Indexed tags: free-llm-router, router, free, fallback, proxy, openai-compatible, llm, cli, developer-tools, open-source, windows, automation, productivity, cpp, portable, prebuilt, tools</sub>
+
+## Keywords
+
+llm router free fallback proxy openai-compatible free-llm-router llm-fallback-router llm-router-free windows portable prebuilt x64 free download
+related: llm, router, free, fallback, proxy, openai-compatible
