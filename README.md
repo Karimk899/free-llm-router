@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="banner.svg" alt="free-llm-router" width="840" />
-
 # FreeLlmRouter — Free-Tier LLM Router with Automatic Fallback (One-Command Setup, Prebuilt Release)
 
 <p><strong>FreeLlmRouter — Free-Tier LLM Router with Automatic Fallback (One-Command Setup, Prebuilt Release): Route every request to a free provider. Native 64-bit portable build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.</strong></p>
